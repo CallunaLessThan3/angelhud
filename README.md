@@ -24,9 +24,9 @@ This hud is almost all lighthud, and a bit of art that I love, all credit to Hyp
 
 ## TODO
 - Align notification button
-- Align main menu buttons better
-- Dying image animations
-- Change highlight color of various elements
+- Add 3d model
+- Change highlight color of class names in backpack
+- Add ability to use 1-9 to select class loadouts in backpack
 - Randomised loading screens (idk how)
 - Dialog menus: fiddle with width to get messages to align properly (this sucks)
 
