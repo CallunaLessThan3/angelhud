@@ -11,9 +11,8 @@
         "wide"                                      "f0"
         "tall"                                      "f0"
 
-        //"button_x_offset"                           "-415" // for left text alignment
         "button_x_offset"                           "160"
-        "button_y"                                  "170"
+        "button_y"                                  "172"
         "button_y_delta"                            "2"
 
         "Button_KV"
@@ -74,7 +73,7 @@
         "ypos"                                      "cs-0.5+30"
         "zpos"                                      "0"
         "wide"                                      "110"
-        "tall"                                      "214"
+        "tall"                                      "234"
         "visible"                                   "1"
         "proportionaltoparent"                      "1"
         "paintbackground"                           "1"
@@ -153,13 +152,17 @@
     {
         "ControlName"                               "EditablePanel"
         "fieldName"                                 "Notifications_ShowButtonPanel"
-        "xpos"                                      "c-315"
-        "ypos"                                      "160"
+        "xpos"                                      "0"
+        "ypos"                                      "2"
         "zpos"                                      "16"
         "wide"                                      "150"
         "tall"                                      "18"
         "visible"                                   "1"
         "enabled"                                   "1"
+
+        "pin_to_sibling"                            "AngelHUD"
+        "pin_corner_to_sibling"                     "PIN_BOTTOMRIGHT"
+        "pin_to_sibling_corner"                     "PIN_TOPRIGHT"
 
         "Notifications_ShowButtonPanel_SB"
         {
@@ -175,14 +178,14 @@
             "AllCaps"                               "1"
             "labelText"                             "notification"
             "font"                                  "MenuMainTitle"
-            "textAlignment"                         "center"
+            "textAlignment"                         "east"
             "actionsignallevel"                     "2"
             "proportionaltoparent"                  "1"
             "Command"                               "noti_show"
             "sound_depressed"                       "UI/buttonclick.wav"
             "paintbackground"                       "0"
             "defaultFgColor_override"               "White"
-            "armedFgColor_override"                 "Main"
+            "armedFgColor_override"                 "TrueWhite"
         }
     }
     "Notifications_Panel"
