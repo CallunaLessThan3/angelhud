@@ -23,9 +23,6 @@ This hud is almost all lighthud, and a bit of art that I love, all credit to Hyp
 - There are 3 loading screens, pick one here: `statsummary.res > Line 25: loading_bg_<1,2,3>`.
 
 ## TODO
-- Align notification button
-- Change highlight color of class names in backpack
-- Add ability to use 1-9 to select class loadouts in backpack
 - Randomised loading screens (idk how)
 - Dialog menus: fiddle with width to get messages to align properly (this sucks)
 
