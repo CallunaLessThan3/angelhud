@@ -26,3 +26,16 @@ This hud is almost all lighthud, and a bit of art that I love, all credit to Hyp
 - Randomised loading screens (idk how)
 - Dialog menus: fiddle with width to get messages to align properly (this sucks)
 
+# Screenshots 
+![Main Menu](https://github.com/calluna-lt3/angelhud/blob/screenshots/main_menu.png?raw=true)
+![Loading](https://github.com/calluna-lt3/angelhud/blob/screenshots/loading.png?raw=true)
+![Ingame](https://github.com/calluna-lt3/angelhud/blob/screenshots/ingame.png?raw=true)
+
+## No-Anims
+![No-Anim Overheal](https://github.com/calluna-lt3/angelhud/blob/screenshots/noanim_overheal.png?raw=true)
+![No-Anim Critical](https://github.com/calluna-lt3/angelhud/blob/screenshots/noanim_critical.png?raw=true)
+
+## Anims
+https://github.com/user-attachments/assets/7417a4ba-f13b-49d1-9f7c-c0868406b2b4
+
+https://github.com/user-attachments/assets/67d471fd-01ba-4096-9c27-12d806bac00e
